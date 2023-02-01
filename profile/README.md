@@ -22,6 +22,6 @@ Stay up-to-date with the latest from Devzone Community by following us on social
 - Instagram: [Devzone Community](https://www.instagram.com/devzonecommunity/)
 - GitHub: [DevzoneCommunity](https://github.com/DevzoneCommunity)
 
-## Code of Conduct
+## [Code of Conduct](https://github.com/devzonecommunity/.github/blob/main/profile/CODE_OF_CONDUCT.md)
 
-All members of the Devzone Community are expected to abide by our Code of Conduct. This document outlines the standards and expectations for behavior within the community and helps ensure that our community remains inclusive and respectful for all members.
+All members of the Devzone Community are expected to abide by our [Code of Conduct](https://github.com/devzonecommunity/.github/blob/main/profile/CODE_OF_CONDUCT.md). This document outlines the standards and expectations for behavior within the community and helps ensure that our community remains inclusive and respectful for all members.
