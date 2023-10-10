@@ -44,6 +44,6 @@ Join the Quantivio buzz and never miss an update!
 
 ---
 
-**📜 [Community Guidelines](https://github.com/Quantivio/.github/blob/main/profile/CODE_OF_CONDUCT.md#code-of-conduct)**
+**📜 [Community Guidelines](https://github.com/Quantivio/.github/blob/main/profile/COMMUNITY_GUIDELINES.md)**
 
-Quantivio thrives on mutual respect. Every member is bound by our [Community Guidelines](https://github.com/Quantivio/.github/blob/main/profile/CODE_OF_CONDUCT.md#code-of-conduct). Let's uphold the spirit of collaboration, inclusivity, and kindness.
+Quantivio thrives on mutual respect. Every member is bound by our [Community Guidelines](https://github.com/Quantivio/.github/blob/main/profile/COMMUNITY_GUIDELINES.md). Let's uphold the spirit of collaboration, inclusivity, and kindness.
